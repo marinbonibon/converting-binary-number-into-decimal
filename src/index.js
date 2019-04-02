@@ -15,7 +15,7 @@ function convert (str) {
     }
   }
 
-  return result.toString();
+  return result;
 }
 
 (function () {
